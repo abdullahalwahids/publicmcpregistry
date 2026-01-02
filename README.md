@@ -1,6 +1,5 @@
-# [Public MCP Registry](https://publicmcpregistry.com/): Product Pitch
+# [Public MCP Registry](https://publicmcpregistry.com/)
 
-## Headline
 **The Missing App Store for AI Agents & LLMs**
 
 ## The Problem
